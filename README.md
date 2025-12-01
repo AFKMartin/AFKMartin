@@ -57,7 +57,7 @@
 | [**Project 1 CS50W**](https://github.com/AFKMartin/CS50W-Project-1) | My repo with the project 0 of CS50W, might put them all together when I finish | Html, CSS |
 | [**Project 2 CS50W**](https://github.com/AFKMartin/CS50W-Project-2) | My repo with the project 0 of CS50W, might put them all together when I finish | Html, CSS |
 | [**Project 3 CS50W**](https://github.com/AFKMartin/CS50W-Project-3) | My repo with the project 0 of CS50W, might put them all together when I finish | Html, CSS |
-| [**Project 0 CS50W**](https://github.com/AFKMartin/CS50W-Project-4) | My repo with the project 0 of CS50W, might put them all together when I finish | Html, CSS |
+| [**Project 4 CS50W**](https://github.com/AFKMartin/CS50W-Project-4) | My repo with the project 0 of CS50W, might put them all together when I finish | Html, CSS |
 ---
 
 ## 🌐 Connect with Me
