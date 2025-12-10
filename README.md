@@ -58,6 +58,7 @@
 | [**Project 2 CS50W**](https://github.com/AFKMartin/CS50W-Project-2) | My repo with the project 2 of CS50W, might put them all together when I finish | Html, CSS, Python |
 | [**Project 3 CS50W**](https://github.com/AFKMartin/CS50W-Project-3) | My repo with the project 3 of CS50W, might put them all together when I finish | Html, CSS, Python, Javascript |
 | [**Project 4 CS50W**](https://github.com/AFKMartin/CS50W-Project-4) | My repo with the project 4 of CS50W, might put them all together when I finish | Html, CSS, Python, Javascript |
+| [**Final Project CS50W**](https://github.com/AFKMartin/CS50W-Final-Project) | My repo with the final project of CS50W, might put them all together when I finish | Html, CSS, Python, Javascript |
 ---
 
 ## 🌐 Connect with Me
