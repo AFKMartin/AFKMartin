@@ -22,6 +22,8 @@
   (I'm lazy — if a machine can do it, I'll build it to do so)  
 - 📫 Reach me at: [javiermarace@protonmail.com](mailto:javiermarace@protonmail.com)
 
+- 🦧 Parody account.
+
 ---
 
 ## 🧠 Tech Stack
