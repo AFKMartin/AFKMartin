@@ -55,12 +55,7 @@
 |---------|--------------|------|
 | [**Titanic Survival Prediction**](https://github.com/AFKMartin/Titanic_Survival_Prediction) | ML model predicting survival rates using XGBoost | Python, Pandas, XGBoost |
 | [**My leetcode repo**](https://github.com/AFKMartin/LeetCode) | My repo with Leetcode solutions | Python |
-| [**Project 0 CS50W**](https://github.com/AFKMartin/CS50W-Project-0) | My repo with the project 0 of CS50W, might put them all together when I finish | Html, CSS |
-| [**Project 1 CS50W**](https://github.com/AFKMartin/CS50W-Project-1) | My repo with the project 1 of CS50W, might put them all together when I finish | Html, CSS, Python |
-| [**Project 2 CS50W**](https://github.com/AFKMartin/CS50W-Project-2) | My repo with the project 2 of CS50W, might put them all together when I finish | Html, CSS, Python |
-| [**Project 3 CS50W**](https://github.com/AFKMartin/CS50W-Project-3) | My repo with the project 3 of CS50W, might put them all together when I finish | Html, CSS, Python, Javascript |
-| [**Project 4 CS50W**](https://github.com/AFKMartin/CS50W-Project-4) | My repo with the project 4 of CS50W, might put them all together when I finish | Html, CSS, Python, Javascript |
-| [**Final Project CS50W**](https://github.com/AFKMartin/CS50W-Final-Project) | My repo with the final project of CS50W, might put them all together when I finish | Html, CSS, Python, Javascript |
+| [**CS50W Projects**](https://github.com/AFKMartin/CS50W) | My repo with all (6) CS50W projects | Html, CSS, Python, Javascript |
 ---
 
 ## 🌐 Connect with Me
