@@ -71,9 +71,4 @@
 </a>
 
 ---
-<!-- I might add this later
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AFKMartin&show_icons=true&theme=tokyonight" alt="AFKMartin stats"/>
-</p>
--->
 
