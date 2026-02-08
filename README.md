@@ -3,9 +3,7 @@
 <p align="center">
   <b>Tech and cats lover</b>
 </p>
-
----
-
+ 
 ## Stuff I did
 
 | Project | Description | Tech |
@@ -15,4 +13,4 @@
 | [**CS50W Projects**](https://github.com/AFKMartin/CS50W) | My repo with all (6) CS50W projects | Html, CSS, Python, Javascript |
 | [**CS50AI Projects**](https://github.com/AFKMartin/CS50AI) | My repo with all (12) CS50AI projects | Python |
 
-<img align="center" width="100px" alt="Coding" src="https://media.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif" />
+<img align="right" width="100px" alt="Coding" src="https://media.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif" />
