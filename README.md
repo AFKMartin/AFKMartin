@@ -1,4 +1,4 @@
-<h1 align="center"><b>AFKMartin</b></h1> <img align="right" width="100px" alt="Coding" src="https://media.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif" />
+<h1 align="center"><b>AFKMartin</b></h1>
 
 <p align="center">
   <b>Tech and cats lover</b>
